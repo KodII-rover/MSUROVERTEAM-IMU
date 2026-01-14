@@ -4,6 +4,14 @@
 
 Драйвер Инерциального Измерительного Датчика (IMU) (WITMOTION WT901BLECL BLE5.0) с возможностью калибровки акселерометра и гироскопа.
 
+## Лицензирование (License)
+
+Данный Программный продукт распространяется на условиях двойного лицензирования: (This software is dual-licensed):
+
+- MIT License (see [LICENSE](https://github.com/KodII-rover/MSUROVERTEAM-IMU/blob/master/LICENSE))
+- Открытая простая лицензия (Russian Open License) (see [GENERAL_LICENSE-RF-IMU.md](https://github.com/KodII-rover/MSUROVERTEAM-IMU/blob/master/GENERAL_LICENSE-RF-IMU.md))
+
+Вы можете использовать этот проект на условиях любой из лицензий (You may use this project under the terms of either license).
 
 **Платформа:** 
 *   ROS2 Humble (Robot Operating System 2 версии Humble).
